@@ -1,7 +1,7 @@
 {
   "name": "quiz-app",
   "version": "1.0.0",
-  "description": "Quiz application built with React",
+  "description": "Quiz application build with React",
   "main": "server.js",
   "scripts": {
     "test": "No test",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Flopet17/quiz-app.git"
+    "url": "git+https://github.com/gmpsankalpa/quiz-app.git"
   },
   "keywords": [
     "React",
@@ -19,12 +19,12 @@
     "HTML",
     "Javascript"
   ],
-  "author": "Florin Pop",
+  "author": "GMP Sankalpa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Flopet17/quiz-app/issues"
+    "url": "https://github.com/gmpsankalpa/quiz-app"
   },
-  "homepage": "https://github.com/Flopet17/quiz-app#readme",
+  "homepage": "https://github.com/gmpsankalpa/quiz-app#readme",
   "dependencies": {
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
