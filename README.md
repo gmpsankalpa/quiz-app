@@ -37,24 +37,24 @@ You can try out Quiz App by visiting the [live demo](#).
 To install Quiz App, follow these steps:
 
 1. Clone the repository:
-  ```bash
-  git clone https://github.com/gmpsankalpa/quiz-app.git
+    ```bash
+    git clone https://github.com/gmpsankalpa/quiz-app.git
 
 2. Navigate into the project directory:
-  ```bash
-  cd quiz-app
+    ```bash
+    cd quiz-app
 
 3. Install dependencies:
-  ```bash
-  npm install
+    ```bash
+    npm install
 
 ## Usage
 
-To start the Quiz App, run the following command:
-    ```bash
-    npm start
+- To start the Quiz App, run the following command:
+  ```bash
+  npm start
 
-This will start the server, and you can access the application in your web browser at `http://localhost:3000`.
+- This will start the server, and you can access the application in your web browser at `http://localhost:3000`.
 
 ## Contributing
 
