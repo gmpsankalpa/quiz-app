@@ -1,4 +1,4 @@
-# Quiz Application built with react
+# Quiz App build with react
 
 ---
 
