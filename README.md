@@ -2,7 +2,7 @@
 
 Quiz App is a web application built with React. It allows users to take quizzes on various topics and provides immediate feedback on their answers.
 
-##  Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
